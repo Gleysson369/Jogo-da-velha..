@@ -10,13 +10,13 @@
 
 <p align="left"> <a href ="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gleysson369" alt="gleysson369" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando no [Jogo da Velha](https://github.com/Gleysson369/Jogo-da-velha..)
+- 🔭 Estou trabalhando no [Jogo da Velha](https://github.com/Gleysson369/Login-Dark)
 
-- 🌱 Estou atualmente aprendendo * *JavaScript e CSS e HTML.**
+- 🌱 Estou aprendendo **JavaScript e CSS e HTML.**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Gleysson369](https://github.com/Gleysson369)
 
-- 📫 Como entrar em contato comigo **gleysson_flavio@hotmail.com**
+- 📫 Como me contatar **gleysson_flavio@hotmail.com**
 
 - 📄 Conheça minhas experiências [https://www.linkedin.com/in/gleysson-flavio-094a17198/](https://www.linkedin. com/in/gleysson-flavio-094a17198/)
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-< a href="https://linkedin.com/in/linkedin.com/in/gleysson-flavio-094a17198/" target="blank"><img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/gleysson-flavio-094a17198/" height=" 30" largura="40" /></a>
+< a href="https://linkedin.com/in/https://www.linkedin.com/in/gleysson-flavio-094a17198/" target="blank"><img align="center" src="https ://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/ in/gleysson-flavio-094a17198/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/gleysson_flavio/" target="blank"><img align="center" src="https://raw.githubusercontent. com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gleysson_flavio/" height="30" width=" 40" /></a>
 </p>
 
